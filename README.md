@@ -1,4 +1,4 @@
-# SixCord
+# SixCord Website
 
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
@@ -26,8 +26,8 @@ Make sure you have npm installed.
   npm install npm@latest -g
   ```
   
-  ### Installation
-1. Clone this repostory [sixcord.xyz](https://github.com/SixCord/sixcord.xyz)
+### Installation
+1. Clone this repostory [github.com/SixCord/sixcord.xyz](https://github.com/SixCord/sixcord.xyz)
    ```sh
    git clone https://github.com/SixCord/sixcord.xyz.git
    ```
@@ -42,6 +42,26 @@ Make sure you have npm installed.
    ```JS
    npm install
    ```
+
+## Built With
+* [Express.js](https://expressjs.com/) - Website framework for Node.js
+* [Node.js](https://nodejs.org/) - JavaScript runtime
+
+## Contributing
+This are the steps to follow if you would like to contribute in SixCord website development.
+
+* 1. Fork this repostory.
+* 2. Commit your changes.
+* 3. Create a new pull request [here](https://github.com/SixCord/sixcord.xyz/pulls) 
+
+## Developers & Contributors
+* **v1** - Front-end developer [v1devv](https://github.com/v1devv)
+* **Jiron** - Initial work [Jiron](https://github.com/Jiron)
+
+See also the list of [contributors](https://github.com/SixCord/sixcord.xyz/graphs/contributors) who participed in SixCord's website development.
+
+## License
+Licensed under the MIT License. - See the [LICENSE](https://github.com/SixCord/sixcord.xyz/blob/main/LICENSE) for more information.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
