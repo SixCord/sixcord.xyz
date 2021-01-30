@@ -1,0 +1,25 @@
+{
+  "name": "SixCord - Desktop",
+  "short_name": "SixCord",
+  "lang": "en-US",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#202024",
+  "icons": [
+{
+  "src": "/assets/sixcord.ico",
+  "sizes": "206x206",
+  "type": "image/png"
+}
+  ],
+  "shortcuts": [
+    {
+      "name": "SixCord - Desktop",
+      "short_name": "SixCord",
+      "description": "Build the best Discord server with SixCord. Leveling, auto-moderation & more features.",
+      "url": "/src/view/index.html",
+      "icons": [{ "src": "/assets/sixcord.ico", "sizes": "206x206" }]
+    }
+  ]
+}
