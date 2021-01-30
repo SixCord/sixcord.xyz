@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" 
+  xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" >
+  <url> 
+    <loc>https://sixcord.xyz/</loc>
+    <image:image>
+       <image:loc>https://cdn.discordapp.com/icons/788800022551724043/249b4e0992115e62e94d72eecb47287a.webp?size=1024</image:loc>
+       <image:caption>SixCord</image:caption>
+    </image:image>
+  </url>
+</urlset>
