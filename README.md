@@ -1,6 +1,6 @@
 # SixCord
 
-[![Contributors][contributors-shield]][contributors-url]
+[![Contributors][contributors-shield]][https://github.com/SixCord/sixcord.xyz/graphs/contributors]
 [![Forks][forks-shield]][https://github.com/SixCord/sixcord.xyz/network/members]
 [![Stargazers][stars-shield]][https://github.com/SixCord/sixcord.xyz/stargazers]
 [![Issues][issues-shield]][https://github.com/SixCord/sixcord.xyz/issues]
