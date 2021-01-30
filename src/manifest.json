@@ -1,5 +1,5 @@
 {
-  "name": "SixCord - Desktop",
+  "name": "SixCord - The Discord Bot",
   "short_name": "SixCord",
   "lang": "en-US",
   "start_url": "/index.html",
@@ -15,7 +15,7 @@
   ],
   "shortcuts": [
     {
-      "name": "SixCord - Desktop",
+      "name": "SixCord - The Discord Bot",
       "short_name": "SixCord",
       "description": "Build the best Discord server with SixCord. Leveling, auto-moderation & more features.",
       "url": "/src/view/index.html",
