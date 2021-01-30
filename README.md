@@ -1,7 +1,8 @@
 # SixCord
 
-[![Contributors][contributors-shield]][]
-[![Forks][forks-shield]][https://github.com/SixCord/sixcord.xyz/network/members]
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
