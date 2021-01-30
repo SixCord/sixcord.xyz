@@ -7,9 +7,9 @@ const Discord = require('discord.js');
 const client = new Discord.Client();
 
 client.on('ready', async () => {
-    console.log("Website running!");
+    console.log("200 OK: Website is running");
     client.user.setPresence({ status: 'invisible' })
-    .then(console.log("Bot-Web presence set to invis to not interact with the current running bot."))
+    .then(console.log("400: Something went wrong!"))
 })
 
 app.use(express.static('src'));
@@ -17,7 +17,7 @@ app.use(express.static('src'));
 app.get('/', async function(req, res) {
   fs.readFile(__dirname + '/views/index.html', 'utf-8', (err,html) => {
       if(err) {
-          res.send("Oh oh! Something went wrong. Please reload the page!")
+          res.send("Error! Please reload the website.")
       }
       else {
           const root = parse(html);
@@ -51,7 +51,7 @@ app.listen(port, function (error) {
       console.log(error)
   }
   else {
-      console.log(`Website successfully started on port: ${port}`)
+      console.log(`Listening at port: ${port}`)
   }
 })
 
