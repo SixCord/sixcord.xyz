@@ -20,7 +20,7 @@ SixCord is a bot that was created to help community moderators, to be able to ma
 Want to contribute on SixCord desktop application? Here's what you need:
 
 ### Prerequisites
-Make sure you have npm installed.
+Make sure you have npm installed & updated.
 
   ```sh
   npm install npm@latest -g
