@@ -56,7 +56,7 @@ This are the steps to follow if you would like to contribute in SixCord website 
 
 ## Developers & Contributors
 * **v1** - Front-end developer [v1devv](https://github.com/v1devv)
-* **Jiron** - Initial work [Jiron](https://github.com/Jiron)
+* **Jiron** - Helper [Jiron](https://github.com/Jiron)
 
 See also the list of [contributors](https://github.com/SixCord/sixcord.xyz/graphs/contributors) who participed in SixCord's website development.
 
