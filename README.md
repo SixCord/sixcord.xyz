@@ -17,7 +17,7 @@ SixCord is a bot that was created to help community moderators, to be able to ma
 * Website Desktop Application [Release: v3]
 
 ## Getting Started
-If you want to contribute to the development of our web application, here are the instructions you will need to be able to use this repository on your own server.
+Want to contribute on SixCord desktop application? Here's what you need:
 
 ### Prerequisites
 Make sure you have npm installed.
