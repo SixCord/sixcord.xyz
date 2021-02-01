@@ -8,7 +8,7 @@
   "theme_color": "#202024",
   "icons": [
 {
-  "src": "/assets/sixcord.ico",
+  "src": "https://cdn.sixcord.xyz/attachments/sixcord.png",
   "sizes": "206x206",
   "type": "image/png"
 }
@@ -19,7 +19,7 @@
       "short_name": "SixCord",
       "description": "Build the best Discord server with SixCord. Leveling, auto-moderation & more features.",
       "url": "/src/view/index.html",
-      "icons": [{ "src": "/assets/sixcord.ico", "sizes": "206x206" }]
+      "icons": [{ "src": "https://cdn.sixcord.xyz/attachments/sixcord.png", "sizes": "206x206" }]
     }
   ]
 }
