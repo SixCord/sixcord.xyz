@@ -27,7 +27,7 @@ Make sure you have npm installed & updated.
   ```
   
 ### Installation
-1. Clone this repostory [github.com/SixCord/sixcord.xyz](https://github.com/SixCord/sixcord.xyz)
+1. Clone this repository [github.com/SixCord/sixcord.xyz](https://github.com/SixCord/sixcord.xyz)
    ```sh
    git clone https://github.com/SixCord/sixcord.xyz.git
    ```
@@ -50,7 +50,7 @@ Make sure you have npm installed & updated.
 ## Contributing
 This are the steps to follow if you would like to contribute in SixCord website development.
 
-* 1. Fork this repostory.
+* 1. Fork this repository.
 * 2. Commit your changes.
 * 3. Create a new pull request [here](https://github.com/SixCord/sixcord.xyz/pulls) 
 
