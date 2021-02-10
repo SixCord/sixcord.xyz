@@ -2,7 +2,6 @@
   "name": "sixcord.xyz",
   "version": "3.0.1",
   "description": "SixCord official website we use for dashboard bot & other services.",
-  
   "dependencies": {
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
