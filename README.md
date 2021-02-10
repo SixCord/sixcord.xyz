@@ -44,6 +44,7 @@ Make sure you have npm installed & updated.
    ```
 
 ## Built With
+* [React.js](https://reactjs.org/) - User Interface
 * [Express.js](https://expressjs.com/) - Website framework for Node.js
 * [Node.js](https://nodejs.org/) - JavaScript runtime
 
