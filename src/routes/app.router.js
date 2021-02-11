@@ -9,7 +9,7 @@ import Loading from "../components/Loading";
 // import HomeModule from "../modules/home.module";
 
 // const Home = lazy(() => import("../components/Home"));
-const About = lazy(() => import("../components/About"));
+const Commands = lazy(() => import("../components/Commands"));
 const ContactUs = lazy(() => import("../components/ContactUs"));
 const HomeModule = lazy(() => import("../modules/home.module"));
 
@@ -20,11 +20,9 @@ export const Home = Loadable({
 
 export default function AppRouter() {
   return (
-    <Suspense fallback={<div>Loading...</div>}>
-      <Route exact path="/home" component={HomeModule} />
-      <Route exact path="/home/page" component={Home} />
-      <Route exact path="/home/about" component={About} />
-      <Route exact path="/home/about/:id" component={About} />
+    <Suspense fallback={<div></div>}>
+      <Route exact path="/" component={HomeModule} />
+      <Route exact path="/home/about" component={Commands} />
       <Route path="/home/contactus" component={ContactUs} />
     </Suspense>
   );
