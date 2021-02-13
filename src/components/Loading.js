@@ -1,10 +1,15 @@
 import React from "react";
-
+import '
 export default function Loading(props) {
-  const greeting = "Loading...";
   return (
     <div>
-      <h1>{greeting}</h1>
+      <div className="col-3">
+  <div className="snippet">
+    <div className="stage">
+      <div className="dot-pulse" />
+    </div>
+  </div>
+</div>
     </div>
   );
 }
